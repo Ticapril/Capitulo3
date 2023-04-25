@@ -1,0 +1,35 @@
+explode => ?
+
+Página 62 Livro PHP E MYSQL
+
+Desafios
+
+2. Faça com que o calendário exiba o dia atual em negrito,
+usando a função date() .
+3. Adicione uma linha no topo do calendário para os dias da
+semana, começando pelo domingo: Dom, Seg, Ter, Qua, Qui,
+Sex, Sáb. -> não entendi
+4. Exiba os domingos em vermelho e os sábados em negrito.
+Pesquise um pouco sobre cores em CSS.
+O que você precisa saber?
+Uma pseudoclasse é um seletor que seleciona elementos que estão em um estado específico
+//seleciona o primeiro elemento filho do DOM
+tr td:first-child{
+
+}
+//seleciona o sétimo elemento da lista
+td:nth-of-type(7) {
+    font-weight: bolder;
+}
+
+
+
+
+5. Faça o calendário começar em um dia que não seja um
+domingo. -> não entendi 
+
+6. E um calendário do ano todo? Será que é muito complexo?
+    
+
+
+

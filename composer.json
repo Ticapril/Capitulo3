@@ -1,0 +1,20 @@
+{
+    "name": "gabriel_oliveira/capitulo3",
+    "description": "Calendário PHP dinâmico utilizando composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ticapril",
+            "email": "gb.oliveirati@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "twig/twig": "3.0"
+    }
+}
